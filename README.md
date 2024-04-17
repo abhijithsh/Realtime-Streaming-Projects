@@ -22,7 +22,6 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://code.qburst.com/abhijith.harikumar/data-streaming-projects-abhijith/-/settings/integrations)
 
 ## Collaborate with your team
 
